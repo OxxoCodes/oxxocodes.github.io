@@ -10,7 +10,9 @@ redirect_from:
 
 Hello! 👋
 
-I'm a software engineer at Microsoft - I spend most of my time at work training small language models, working with LLM evaluations, and developing tooling to support our evaluation and data generation pipelines. Outside of work, I enjoy learning about multilinguality, low-resource NLP, knowledge distillation, and general deep learning.
+My name's Nathan. I live in the greater Seattle Washington area, and love anything and everything computational.
+
+During the week I'm a software engineer at Microsoft. Here, I spend most of my time training small language models, working with LLM evaluations, and developing tooling to support our evaluation and data generation pipelines. Outside of work, I enjoy learning about multilinguality, low-resource NLP, knowledge distillation, and general deep learning.
 
 I graduated in August 2025 from Clemson University with my Master's in Computer Science with a focus on Data Science & Informatics, and I received my Bachelor's degree in May 2025 in Computer Science with a minor in cybersecurity.
 
